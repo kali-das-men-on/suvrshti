@@ -16,22 +16,22 @@ const themes = [
     label: 'Classic',
   },
   {
-    name: 'dark',
+    name: 'Oil',
     icon: darkThemeIcon,
     label: 'Dark',
   },
   {
-    name: 'earth',
+    name: 'Acrylic',
     icon: earthThemeIcon,
     label: 'Earth',
   },
   {
-    name: 'ocean',
+    name: 'Mural',
     icon: blueThemeIcon,
     label: 'Ocean',
   },
   {
-    name: 'sand',
+    name: 'Caricature',
     icon: orangeThemeIcon,
     label: 'Sand',
   }
