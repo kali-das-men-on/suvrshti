@@ -112,16 +112,16 @@ export class ThemeSwitcher extends LitElement {
 		if (theme === 'default') {
 			_heroImage.src = '/assets/images/home/classic-hero.jpg';
 		}
-		if (theme === 'dark') {
+		if (theme === 'Oil') {
 			_heroImage.src = '/assets/images/home/dark-hero.jpg';
 		}
-		if (theme === 'earth') {
+		if (theme === 'Acrylic') {
 			_heroImage.src = '/assets/images/home/earth-hero.jpg';
 		}
-		if (theme === 'ocean') {
+		if (theme === 'Mural') {
 			_heroImage.src = '/assets/images/home/ocean-hero.jpg';
 		}
-		if (theme === 'sand') {
+		if (theme === 'Caricature') {
 			_heroImage.src = '/assets/images/home/sand-hero.jpg';
 		}
 		localStorage.setItem('theme', theme);
